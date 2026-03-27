@@ -1,0 +1,6 @@
+Q217-contains duplicate(leetcode)
+Q1480. Running Sum of 1d Array
+Q121.Best time to buy and sell stock(easy)
+42.Trapping Rain water
+
+i dont kown but it is hard foe me to uderstand the logic behind (BUY & SELL STOCK)

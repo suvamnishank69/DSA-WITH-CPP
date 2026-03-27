@@ -1,0 +1,15 @@
+WHAT IS LOG ?
+
+a logarithm is  the inverse operation to exponentiation.For a givrn number x,
+the logarithm log(b)^(x) is the power to which the base must be rasied to obtain x.
+
+MATH
+log(b)^(x)=y
+if and only if 
+b^y = x
+
+for example
+log(2)^(8)=3
+bcz 2^3=8.
+
+read some basic log properties

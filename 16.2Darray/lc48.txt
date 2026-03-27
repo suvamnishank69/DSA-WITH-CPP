@@ -1,0 +1,33 @@
+// leetcode q48
+// rotate 90* deg
+
+// steps
+// 1. transpose given matrix
+// 2. reverse each row of new matrix
+
+// psudo code
+// reverse(mat[i].begin(),mat[i].end(i))  ====>(1,2,3) to (3,2,1)
+
+
+Solution
+
+class Solution {
+
+public:
+    void rotate(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+        // transopse of a matrix
+        for(int i=0;i<n;i++){
+            for(int j=0;j=i;j++){
+                swap(matrix[i][j],matrix[j][i]);
+            }
+        }
+        // reverse of a row
+        for(int i=0;i<n;i++){
+            reverse(matrix[i].begin(),matrix[i].end(i))   this line reverse the row 
+                 //we can say that this is python [reverse(start,end)]
+        }
+    }
+
+    
+};

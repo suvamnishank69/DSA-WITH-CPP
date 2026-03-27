@@ -1,0 +1,7 @@
+live class 18th
+the formula is filenumber - 4 = live class 
+
+there is a 3 step formula to solve recursion
+1.kam
+2.recursive call
+3.base case 

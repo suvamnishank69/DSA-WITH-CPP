@@ -1,0 +1,8 @@
+1.https://www.geeksforgeeks.org/problems/factorial5739/1
+2.https://leetcode.com/problems/fibonacci-number/description/
+3.https://www.hackerrank.com/challenges/fizzbuzz/problem
+4.https://leetcode.com/problems/palindrome-number/description/
+
+
+
+leetcode q-9,509

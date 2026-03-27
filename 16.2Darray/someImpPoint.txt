@@ -1,0 +1,13 @@
+// we can calculate the size of matrix 
+
+int arr[n][m] = {{1,2,3},{4,5,6,}};
+
+
+point 1 [size of matrix]
+
+int n = matrix.size();  // size of row  
+
+
+int m = matrix[0].size(); // it gonna behave as 1d arr and (show the number of col)
+
+
