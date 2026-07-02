@@ -7,6 +7,7 @@ int main(){
 
 
     int **pptr = &ptr;
+    cout<<&a<<"\n";
     cout<< &ptr <<" = "<< pptr<<"\n";
     return 0 ;
 }

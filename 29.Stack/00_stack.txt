@@ -1,0 +1,13 @@
+Stack is lifo
+
+l-last
+i-in
+f-first
+o-out
+
+
+this has 
+
+1.push
+2.pop
+3.top

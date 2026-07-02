@@ -3,12 +3,14 @@ using namespace std;
 
 int main(){
     int a = 10;
-    int *ptr = &a; //store pointer value of a 
+    int *ptr = &a;
+     // (*) store pointer value of a 
     // & give the adress of variales
 
     float pi = 3.14;
     float *ptr2 = &pi;
 
+    cout<< a  <<"\n";
     cout<< &a <<" = "<< ptr << "\n";
     cout<< &pi <<" = "<< ptr2 << "\n";
 
