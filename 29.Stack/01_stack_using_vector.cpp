@@ -1,6 +1,6 @@
-// using vector
+// using vector to creat stack
 
-// use array to creat satck as homework
+// use array to creat satck as    homework
 
 #include<iostream>
 #include<vector>
@@ -19,9 +19,9 @@ public:
          cout<<"Stack is empty.\n";
          return;
       }
-      vec.pop_back();
+      vec.pop_back();   
    }
-   int top() { //0(1)
+   int top() { //0(1)   return thr top element
       if(isEmpty()) {
          cout<<"Stack is empty.\n";
          return -1;
