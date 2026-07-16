@@ -1,0 +1,41 @@
+#include<iostream>
+
+// add pointers  to data or int
+
+class Node{  // Node class to store data and pointer to next node
+    public:
+    
+    int data;
+    Node* next;
+    // This stores the address of the next node.
+    // [10 | next] ----> [20 | next]
+
+        Node(int val) {  //Node(10)
+            data = val;   //data = 10
+            next = NULL;  //Initially the node is not connected to any other node. or No next node
+        }
+
+};
+
+// add head and tail to a note
+// List class to manage linked list using head and tail pointers
+class List {
+    public:
+    Node* head;
+    Node* tail;
+
+        List() {
+            //whenever a new listed list is created then these value are null
+            head = NULL; // stores address of first node
+            tail = NULL; // stores address of last node
+        }
+    };
+
+    int main() {
+        List ll();
+        return 0;
+    }
+
+
+
+    
